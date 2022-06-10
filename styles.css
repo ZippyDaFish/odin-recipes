@@ -1,0 +1,18 @@
+body {
+    background-color: cornsilk;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
+
+.linked-img {
+    opacity: 0.75;
+}
+
+.linked-img:hover {
+    opacity: 1;
+}
